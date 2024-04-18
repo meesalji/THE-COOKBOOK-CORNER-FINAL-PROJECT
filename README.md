@@ -28,19 +28,19 @@ With its comprehensive recipe database, user-friendly interface, and visually ap
 
 ## App Images
 
-# Image one describes about the describes about app comprehensive information, including about different types of recipes, we can browse the recipes we want and look at the recipe of how to make it.
+Image one describes about the describes about app comprehensive information, including about different types of recipes, we can browse the recipes we want and look at the recipe of how to make it.
 ![images](images/1.png)<br>
 
-# Image two  describes about the menu contents that was provided in the app , in the men we have added the home button, categories button and search button , we can access through the menu to go search the items we want.
+Image two  describes about the menu contents that was provided in the app , in the men we have added the home button, categories button and search button , we can access through the menu to go search the items we want.
 ![images](images/2.png)<br>
 
-# Image three describes about the categories sction, when we go into the categories sction we can find different categories in this section. So, we can select one of the category which we want.
+Image three describes about the categories sction, when we go into the categories sction we can find different categories in this section. So, we can select one of the category which we want.
 ![images](images/3.png)<br>
 
-# Image four describe about the recipe n this we can find the recipe of the food we desire and we can look at the view ingredients option.
+ Image four describe about the recipe n this we can find the recipe of the food we desire and we can look at the view ingredients option.
 ![images](images/4.png)<br>
 
-# Image five describes about the list of the ingredients of the app.
+ Image five describes about the list of the ingredients of the app.
 ![images](images/5.png)<br>
 
 
