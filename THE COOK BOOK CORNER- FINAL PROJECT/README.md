@@ -1,7 +1,7 @@
 # THE COOKBOOK CORNER
 
 <center><a href="https://instamobile.io/app-templates/food-app-template/"><img src="https://www.instamobile.io/wp-content/uploads/2019/07/Screen-Shot-2019-07-22-at-8.56.44-PM.png" /></a></center><centre><a href="</centre>
-
+                                                                                                                                                                                                             
 ## Introduction:
 The CookBook Corner app is a comprehensive digital cookbook that provides users with a vast collection of delicious recipes across a wide range of cuisines and dietary preferences. The app is designed to be a one-stop-shop for all your culinary needs, offering a user-friendly interface, easy-to-follow instructions, and a visually appealing presentation of the recipes.
 
