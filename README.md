@@ -27,6 +27,8 @@ With its comprehensive recipe database, user-friendly interface, and visually ap
 
 https://mailuc-my.sharepoint.com/:v:/g/personal/meesalji_mail_uc_edu/EX_NEmxyt5hMsZDNtVWBAk8Bw2vKSv32n-1TlBKN29Miag
 
+![images](images/APP FINAL VIDEO.mp4)<br>
+
 
 ## App logo
 ![images](images/6.png)<br>
